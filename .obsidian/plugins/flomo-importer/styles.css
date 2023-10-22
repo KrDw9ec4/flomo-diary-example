@@ -1,0 +1,38 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+.uploadbox {
+    border: 1px dashed #c6c6c6;
+    padding: 15px;
+    margin: 0 0 0px;
+    width: 100%;
+    display: block;
+    background: transparent
+}
+
+.uploadbox:hover {
+    /*background: #e0e0e0;*/
+    cursor: pointer;
+    border: 1px dashed #915109;
+}
+
+.expOptionBlock {
+    text-align: left;
+    vertical-align: middle;
+    margin: 0 0 10px;
+}
+
+.ckbox {
+    vertical-align: middle;
+}
+
+.canvasOptionBlock {
+    text-align: right;
+    vertical-align: middle;
+    margin: 0 0 10px;
+}

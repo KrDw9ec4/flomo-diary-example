@@ -1,0 +1,232 @@
+{
+  "workspaces": {
+    "默认": {
+      "main": {
+        "id": "f46c5c7c2b244b94",
+        "type": "split",
+        "children": [
+          {
+            "id": "cc32a655f1f8df7b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b1835b9b97e193c9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "81db93aa07c98092",
+        "type": "split",
+        "children": [
+          {
+            "id": "2577531fa26078ea",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3c98ce18abfccf4d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "46d9233870a69376",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1be493889b1249d8",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "fc59ca1f8c3b7010",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9d1196c2926493df",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "608838dca8ce5ba5",
+        "type": "split",
+        "children": [
+          {
+            "id": "0ad25bfadee0e9e4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "86a0d685e5a5d42e",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "README.md"
+                  }
+                }
+              },
+              {
+                "id": "8814a2d350c5b0d8",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "d6092d11e35a923e",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "f06584e72118c5a9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0802bcb362c32ffa",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "README.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "ec14ff4f68b4be30",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "README.md"
+                  }
+                }
+              },
+              {
+                "id": "d496479e1cb51dd3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "README.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1e56b557169866a1",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "README.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "workspaces:管理工作区布局": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": true,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "flomo-importer:Flomo Importer": false,
+          "open-vscode:VSCode": false
+        }
+      },
+      "active": "b1835b9b97e193c9"
+    }
+  },
+  "active": "默认"
+}
