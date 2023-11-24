@@ -1,0 +1,29 @@
+{
+    "IO_value": {
+        "date": [
+            "YYYY",
+            "MM",
+            "DD"
+        ]
+    },
+    "yaml": {
+        "created": "YYYY-MM-DDTHH:mm:ss",
+        "Recently": [
+            "[[YYYY-MM-DD]]",
+            "[[YYYY-MM-DD]]"
+        ],
+        "Today": [
+            "[[YYYY-MM-DD]]"
+        ]
+    },
+    "今日日志": {
+        "HH:mm:ss": "![[memo@YYYY_MM_DD_HH_mm_ss_N.md]]"
+    },
+    "夜间回顾": {
+        "早起": true,
+        "早睡": true,
+        "学习时间": "xhxxm",
+        "阅读时间": "xhxxm",
+        "今日总评": "XXX"
+    }
+}
