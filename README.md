@@ -11,10 +11,19 @@ Flomo --- Flomo-Importer & Flomo-Diary.py ---> Obsidian
 ### 日期输入：支持多种格式的识别
 
 ```regex
-(\d{4})[-|.|/]?(\d{2})[-|.|/]?(\d{2})
+(\d{4})[年/.-]?(\d{2})[月/.-]?(\d{2})[日号]?
 ```
 
-目前支持 `YYYY-MM-DD` `YYYY.MM.DD` `YYYY/MM/DD` `YYYYMMDD` 四种格式的日期输入。
+导入 `input_date` 模块的 main() 函数，直接调用后在控制台输入日期，程序会自动匹配并解析日期，最终将日期信息写入 JSON 文件。
+
+支持的日期格式:
+
+- YYYY年MM月DD日
+- YYYY年MM月DD号
+- YYYY/MM/DD
+- YYYY.MM.DD
+- YYYY-MM-DD
+- YYYYMMDD
 
 ### 文件合理归档：将导入后生成的文件按照相同规则存放
 
