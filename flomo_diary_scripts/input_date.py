@@ -26,7 +26,7 @@ __author__ = "krdw"
 
 import unittest
 from datetime import datetime
-from __attribute__ import Patterns, Path
+from __init__ import Patterns, Path
 from rw_json import update_json
 
 
